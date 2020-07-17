@@ -83,6 +83,6 @@ function tinyFriend(friend) {
     }
     return min;
 }
-var Friends = ['Sakib', 'imran', 'kabir', 'joy' , 'mou','mousumi','saima'];
+var Friends = ['Sakib', 'imran', 'kabir', 'joy' ,'mousumi','saima'];
 var tinyFriend = tinyFriend(Friends);
 console.log(tinyFriend);
